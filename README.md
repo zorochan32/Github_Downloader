@@ -51,7 +51,7 @@ https://github.com/settings/personal-access-tokens
 
 4️⃣ لینک پوشه رو بده
 bash
-https://github.com/zorochan32/My-downloader/tree/main/downloads
+https://github.com/YourUserName/My-downloader/tree/main/downloads
 5️⃣ تمام! 🎉
 فایل‌ها خودکار دانلود میشن!
 
@@ -68,7 +68,7 @@ https://github.com/zorochan32/My-downloader/tree/main/downloads
 
 📋 مثال استفاده
 bash
-🔗 لینک پوشه گیت‌هاب: https://github.com/zorochan32/My-downloader/tree/main/downloads
+🔗 لینک پوشه گیت‌هاب: https://github.com/YourUserName/My-downloader/tree/main/downloads
 
 📊 خلاصه:
    📄 تعداد فایل‌ها: 15
