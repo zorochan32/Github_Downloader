@@ -25,7 +25,9 @@
 ## 📥 نصب و اجرا
 
 ```bash
-# کلون کردن پروژه
+# دانلود کردن سورس کد یا دانلود از ریلیز
+
+# یا کلون کردن پروژه
 git clone https://github.com/nikzad-avasam/downloader.git
 cd downloader
 
