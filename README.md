@@ -93,9 +93,9 @@ Generate new token (classic) رو بزن
 🤝 مشارکت
 پروژه رو Fork کن، تغییر بده، PR بده! هر کمکی خوشحالمون میکنه ❤️
 
-<div align="center">
+
 ⭐ اگه مفید بود، Star یادت نره! ⭐
 
 Made with ❤️
 
-</div> ```
+ ```
