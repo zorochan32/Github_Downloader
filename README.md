@@ -42,6 +42,7 @@ bash
 python github_downloader.py
 2️⃣ توکن بده (اختیاری)
 از اینجا توکن بساز تا محدودیت برداشته بشه
+https://github.com/settings/personal-access-tokens
 
 3️⃣ حالت رو انتخاب کن
 دانلود مستقیم: فایل‌ها رو دانلود میکنه
