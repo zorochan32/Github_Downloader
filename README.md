@@ -16,7 +16,7 @@
 
 **برای دانلود فایل‌ها، اول برو به این ریپازیتوری:**
 
-### 👉 [https://github.com/zorochan32/My-downloader](https://github.com/zorochan32/My-downloader)
+### 👉 [https://github.com/nikzad-avasam/downloader)
 
 این دانلودر توی خودش توضیح داده برو اونجا و یادش بگیر بعد بیا و از این برنامه استفاده کن یه استارم حتما بهشون بده
 
