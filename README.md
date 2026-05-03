@@ -35,7 +35,9 @@ cd downloader
 pip install requests
 
 # اجرا
-python github_downloader.py
+python github_downloader_EN.py
+or
+python github_downloader_pr.py
 🎯 چطور استفاده کنم؟
 1️⃣ برنامه رو اجرا کن
 bash
